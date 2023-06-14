@@ -1,24 +1,13 @@
 <!DOCTYPE html>
-<html>
-<head> 
-    <title>maria</title>
-   
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
 </head>
-<body> 
+<body>
     <h1>maria</h1>
-
     <img src="pngimg.com - linkedIn_PNG6.png" alt="linkedin image" width="300 px"> <br>
-<a href="https://www.linkedin.com/in/maria-ali-b6a01527a/" target="_maria"> my aaccount</a>
-
-<ol> 
-    favorits
-<li>
-    real madrid
-</li>
-<li>friends
-</li>
-<li> ssleping
-</li>
-</ol>
+<a href="https://www.linkedin.com/in/maria-ali-b6a01527a/" target="_maria"> my aaccount</a> 
 </body>
 </html>
